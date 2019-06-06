@@ -1,0 +1,29 @@
+{
+  "name": "tablero_ajedrez",
+  "version": "1.0.0",
+  "description": "repaso",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelTruGuillen1/REPASOEXAMEN.git"
+  },
+  "keywords": [
+    "tablero",
+    "repaso",
+    "web",
+    "examen"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelTruGuillen1/REPASOEXAMEN/issues"
+  },
+  "homepage": "https://github.com/MiguelTruGuillen1/REPASOEXAMEN#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
